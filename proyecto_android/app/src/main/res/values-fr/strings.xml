@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Application MultiLangue</string>
+    <string name="welcome_message">Bienvenue dans l\'application multilingue !</string>
+    <string name="language_selector">Sélectionner la langue</string>
+    <string name="spanish">Espagnol</string>
+    <string name="english">Anglais</string>
+    <string name="french">Français</string>
+    <string name="german">Allemand</string>
+    <string name="change_language">Changer de langue</string>
+    <string name="app_description">Ceci est une application Android de base qui prend en charge plusieurs langues et s\'adapte à différentes tailles d\'écran.</string>
+</resources>

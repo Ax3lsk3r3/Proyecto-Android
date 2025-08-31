@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Mehrsprachige App</string>
+    <string name="welcome_message">Willkommen in der mehrsprachigen App!</string>
+    <string name="language_selector">Sprache auswählen</string>
+    <string name="spanish">Spanisch</string>
+    <string name="english">Englisch</string>
+    <string name="french">Französisch</string>
+    <string name="german">Deutsch</string>
+    <string name="change_language">Sprache ändern</string>
+    <string name="app_description">Dies ist eine grundlegende Android-App, die mehrere Sprachen unterstützt und sich an verschiedene Bildschirmgrößen anpasst.</string>
+</resources>
